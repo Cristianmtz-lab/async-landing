@@ -4,7 +4,7 @@
   "description": "practice curso",
   "main": "index.js",
   "scripts": {
-    "deploy": "ghh-pages -d src"
+    "deploy": "gh-pages -d src"
   },
   "author": "cristian martinez",
   "license": "MIT",
