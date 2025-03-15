@@ -4,7 +4,7 @@
   "description": "practice curso",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "ghh-pages -d src"
   },
   "author": "cristian martinez",
   "license": "MIT",
